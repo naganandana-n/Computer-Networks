@@ -68,7 +68,7 @@ $tcp set fid_ 1
 $tcp set packetSize_ 552
 
 set ftp [new Application/FTP]
-$ns attach-agent $tcp
+$ftp attach-agent $tcp
 
 set udp [new Agent/UDP]
 $ns attach-agent $n2 $udp
@@ -78,7 +78,7 @@ $ns connect $udp $null
 $udp set fid_ 2
 
 set cbr [new Application/Traffic/CBR]
-$ns attach-agent $udp
+$cbr attach-agent $udp
 # set requirement according to question
 $cbr set packet_size_ 1000
 
