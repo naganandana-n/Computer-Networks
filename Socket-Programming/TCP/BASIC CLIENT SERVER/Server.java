@@ -34,7 +34,7 @@ eg: java client localhost 8009
             while(true){
                 Socket client = server.accept();
                 System.out.println("New client connected" + client.getInetAddress().getHostAddress());
-                ClientHandler1 clientSock = new ClientHandler1(client);
+                ClientHandler1 clientSock = new ClientHandler1(client); // ClientHandler1
                 new Thread(clientSock).start();
             }
         } catch(IOException e){
