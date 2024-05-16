@@ -1,7 +1,7 @@
 # NS2 SIMULATION DIAGRAM - SELF PRACTICE Q.png
 
 # RUNNING:
-# filename.tcl
+# ns filename.tcl
 # nam filename.nam
 
 set ns [new Simulator]
