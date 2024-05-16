@@ -2,7 +2,7 @@
 
 # RUNNING:
 # ns filename.tcl
-# nam filename.nam
+# nam out.nam
 
 set ns [new Simulator]
 
