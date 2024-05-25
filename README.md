@@ -4,7 +4,7 @@ This repository contains solutions to Socket Programming and Network Simulator 2
 
 ## Socket Programming:
 
-- [TCP | Socket_programming.pptx](https://github.com/naganandana-n/Computer-Networks/blob/main/Socket-Programming/TCP/Socket_programming.pptx)
+- [TCP |] Socket_programming.pptx(https://github.com/naganandana-n/Computer-Networks/blob/main/Socket-Programming/TCP/Socket_programming.pptx)
 - [TCP | Standard version    | Client.java, Server.java, ClientHandler1.java](https://github.com/naganandana-n/Computer-Networks/tree/main/Socket-Programming/TCP)
 - [TCP | Calculator Question | tcpClient.java, tcpServer.java, tcpClientHandler.java](https://github.com/naganandana-n/Computer-Networks/tree/main/Socket-Programming/TCP/TCP%20Q%20-%20CALCULATOR)
 - [TCP | Multiply Question   | Client.java, Server.java, MulClientHanlder.java](https://github.com/naganandana-n/Computer-Networks/tree/main/Socket-Programming/TCP/TCP%20Q%20-%20MULTIPLY%20THE%20CLIENT%20RESULT%20BY%202)
