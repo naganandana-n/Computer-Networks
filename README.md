@@ -1,4 +1,3 @@
-<pre>
 # Computer-Networks
 
 This repository contains solutions to Socket Programming and Network Simulator 2 (NS2) questions in Computer Networks. It also includes the course ppts that explain the above concepts.
@@ -12,4 +11,3 @@ This repository contains solutions to Socket Programming and Network Simulator 2
 - [UDP | UDP Socket.pptx](https://github.com/naganandana-n/Computer-Networks/blob/main/Socket-Programming/UDP/UDP%20Socket.pptx)
 - [UDP | Standard Version    | udpBaseClient.java, udpBaseServer.java](https://github.com/naganandana-n/Computer-Networks/tree/main/Socket-Programming/UDP)
 - [UDP | Calculator Question | udpArithmeticClient.java, udpArithmeticServer.java](https://github.com/naganandana-n/Computer-Networks/tree/main/Socket-Programming/UDP/UDP%20Q%20-%20CALCULATOR)
-</pre>
